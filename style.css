@@ -1,0 +1,141 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+a{
+	color: inherit;
+	text-decoration
+}
+nav{
+	background: black;
+	color: white;	
+}
+
+li{
+	display: inline-block;
+	font-size: 18px;
+	padding: 10px;
+}
+li: hover{
+	background: rgb(155,155,155);
+}
+.container{
+	padding: 10px;
+}
+.home{
+	width: 50%;
+	background: rgb(202,216,242);
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 10px;
+	padding : 15px;
+}
+.home h1{
+	font-size: 60px
+}
+.home h5{
+	font-size: 29px;
+}
+.footer{
+	background: black;
+	width: 100%;
+	padding: 15px;
+	color:white;
+	text-align: center;
+}
+
+
+
+
+}
+
+.login{
+	width: 500px;
+	margin: 10% auto;
+	text-align: center;
+	background: ;
+}
+
+.login input{
+	display: block;
+	margin: 10px 0;
+	font-size: 18px;
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.blok{
+	width: 70%;
+	margin: 20px;
+}
+
+.post{
+	padding: 15px;
+	background: #f4f4f4;
+	border-radius: 15px;
+}
+
+.post h1{
+	font-size: 45px;
+	margin: 5px 0;
+}
+
+.tgl{
+	margin: 5px;
+	display: block;
+}
+
+.isi{margin: 5px 0;}
+
+.tombol{
+	display: inline-block;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.tambah{
+	background: rgb(97,245,97);
+	margin: 5px 0;
+}
+
+.edit{
+	background: rgb(135,225,241);
+}
+
+.delete{
+	background: rgb(225,104,104)
+}
+
+.form label{
+	font-weight: bold; 
+	font-size: 20px;
+	display: block;
+}
+
+.form input,textarea{
+	font-size: 16px;
+	padding: 10px;
+	width: 100%;
+	margin: 10px 0;
+	box-sizing: border-box;
+
+}
+
+.form input[type="submit"]{
+	width: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
